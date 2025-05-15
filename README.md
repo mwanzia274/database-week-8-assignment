@@ -24,9 +24,11 @@ This project implements a **Clinic Booking System** database using MySQL. It mod
 - **Prescriptions** — Medication details linked to treatments.
 - **Billing** — Tracks payments and billing status for appointments.
 
-![ERD Diagram]("C:\Users\Fluxtech Solutions\Documents\clinic ERP diagram.png")  
-*(Replace the above URL with your ERD image link)*
+## Entity Relationship Diagram (ERD)
 
+Click the image to enlarge:
+
+[![Clinic Booking System ERD](images/ClinicBookingERD.png)](images/ClinicBookingERD.png)
 ---
 
 ## How to Run / Setup
